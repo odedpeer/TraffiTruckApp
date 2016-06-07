@@ -51,7 +51,7 @@ public class MainActivity extends Activity {
             }
 
         });
-        WebView.setWebContentsDebuggingEnabled(false);
+//        WebView.setWebContentsDebuggingEnabled(false);
 
         mWebView.loadUrl("http://54.77.150.182/");
         //mWebView.loadUrl("http://10.0.0.22/");
